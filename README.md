@@ -107,7 +107,7 @@
 
 ### 技术交流与商务支持
 
-![image](https://user-images.githubusercontent.com/94048608/183393671-6da8f70a-6478-4457-b440-e8736b06c05b.png)
+![image](https://user-images.githubusercontent.com/94048608/184612108-1c78cfa8-2f8c-42e9-aa50-931d163e1d5f.png)
 ### 版本规划：
 V1.5
 
