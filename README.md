@@ -124,7 +124,8 @@
 
 ### 技术交流与商务支持
 
-<img width="83" alt="群二维码" src="https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/6492f4cd-e3c9-41f1-a4f7-30d225b07346">
+![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/394d223e-7338-49ce-9b03-6d88d64fff4c)
+
 
 ### 版本规划：
 V1.5
