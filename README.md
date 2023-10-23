@@ -125,7 +125,8 @@
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/3956757a-fc7d-4974-bb18-43906dec9ec2)
+![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/0d402d63-aeb2-44fd-b751-3dcca29c183f)
+
 
 
 
