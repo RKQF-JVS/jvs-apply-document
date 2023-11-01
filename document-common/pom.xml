@@ -6,19 +6,19 @@
     <parent>
         <groupId>cn.bctools</groupId>
         <artifactId>jvs-apply-document</artifactId>
-        <version>1.0.0</version>
+       <version>2.1.0</version>
     </parent>
 
     <groupId>cn.bctools</groupId>
     <artifactId>document-common</artifactId>
-    <version>1.0.0</version>
+   <version>2.1.0</version>
 
     <dependencies>
         <!--文件上传服务-->
         <dependency>
             <groupId>cn.bctools</groupId>
             <artifactId>jvs-starter-oss</artifactId>
-            <version>1.0.0</version>
+           <version>2.1.0</version>
         </dependency>
 
         <dependency>
@@ -29,26 +29,26 @@
         <dependency>
             <groupId>cn.bctools</groupId>
             <artifactId>jvs-starter-redis</artifactId>
-            <version>1.0.0</version>
+           <version>2.1.0</version>
         </dependency>
 
         <!--只引用数据，不引限用数据权-->
         <dependency>
             <groupId>cn.bctools</groupId>
             <artifactId>jvs-starter-database</artifactId>
-            <version>1.0.0</version>
+           <version>2.1.0</version>
         </dependency>
 
         <dependency>
             <groupId>cn.bctools</groupId>
             <artifactId>jvs-starter-knife4j</artifactId>
-            <version>1.0.0</version>
+           <version>2.1.0</version>
         </dependency>
 
         <dependency>
             <groupId>cn.bctools</groupId>
             <artifactId>jvs-starter-oauth2</artifactId>
-            <version>1.0.0</version>
+           <version>2.1.0</version>
         </dependency>
 
         <dependency>

@@ -68,33 +68,17 @@
 
 业务前台后端地址：https://github.com/RKQF-JVS/jvs-apply-document
 
-管理后台前端地址：https://github.com/RKQF-JVS/jvs-ui
+管理后台前端地址：https://github.com/RKQF-JVS/jvs-ui/tree/2.1.0/
 
-管理后台后端地址：https://github.com/RKQF-JVS/jvs
+管理后台后端地址：https://github.com/RKQF-JVS/jvs/tree/2.1.0/
 
+### 部署视频  
+https://www.bilibili.com/video/BV1BN411q79Y  
 
-## 体验地址与账号说明
-![image](https://user-images.githubusercontent.com/94048608/212477221-923dc994-f450-42c6-9a80-4898df7e3516.png)
+### 演示地址
+演示地址：http://knowledge.bctools.cn/
 
-### 账号说明：
-
-- 普通用户端：体验者自有微信扫码登录
-- 管理端(全网共享)：testadmin 123456
-- 管理端+应用编辑：联系运营微信号 ruanjbz，开设独立环境与独立账号
-- 管理端+平台配置+应用编辑：联系运营微信号 ruanjbz，获取私有化部署文档与安装包
-### 地址说明：
-
-- 管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
-- 企业文档：http://knowledge.bctools.cn/
-- 企业计划（项目管理）：http://teamwork.bctools.cn/
-- 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
-- 规则引擎：http://jvs-rules.bctools.cn/
-- 逻辑引擎:http://logic.bctools.cn/
-- 视频会议：http://meeting.bctools.cn/
-
-
-**技术文档地址（微信登陆可查看）：**
-整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
+试用账号：微信扫码即可登陆，如需要账号密码试用，请二维码联系我们
 
 
 ### 技术栈说明
@@ -123,16 +107,17 @@
 * 禁止在未备案的情况下，私自使用（包含自用与商用）
 
 
+
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/fb3baf9f-4bf4-464b-9de5-858c5468214a)
+![输入图片说明](img/1030.png)
+
+如因人数限制无法加群时，可加运营同学拉入技术交流群
+
+![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
 
 
-
-
-
-
-### 版本规划：
+## 版本规划：
 V1.5
 
 * 支持多人在线同时协同编辑
