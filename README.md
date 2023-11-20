@@ -110,7 +110,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/0d473263-4268-4e4c-a894-34cbb9310c48)
+
+![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/e1c2b138-087f-4364-84c5-e951af24086d)
 
 
 
