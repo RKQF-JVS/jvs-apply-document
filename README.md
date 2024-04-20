@@ -109,9 +109,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 
 ### 技术交流与商务支持
+![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/b64c4a74-cdab-4a38-ada8-dc7526d35995)
 
-
-![群二维码](https://github.com/RKQF-JVS/jvs-apply-document/assets/94048608/b39e871b-028d-40c2-b2e0-8be7d94173e8)
 
 
 
