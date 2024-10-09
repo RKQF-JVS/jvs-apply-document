@@ -118,7 +118,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
-![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
+![微信截图_20241009183836](https://github.com/user-attachments/assets/8a34671b-3429-4065-9aca-4ec26881c23f)
+
 
 
 ## 版本规划：
