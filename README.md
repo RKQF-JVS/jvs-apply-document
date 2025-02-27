@@ -109,7 +109,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 
 ### 技术交流与商务支持
-![微信图片_20250220101551](https://github.com/user-attachments/assets/58ddc608-7947-466e-b170-029f012f8838)
+![小微信图片_20250227142830](https://github.com/user-attachments/assets/bb8cab16-4ffe-46b6-a59d-439696e125bb)
+
 
 
 
@@ -121,7 +122,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
-![2024-11-191043518578273193984-image](https://github.com/user-attachments/assets/f1cc23cc-1e53-4ede-aea1-4bc31eb702f3)
+![谭京](https://github.com/user-attachments/assets/3863ac49-1a19-4f1c-999b-d6290f91f9ff)
+
 
 
 
