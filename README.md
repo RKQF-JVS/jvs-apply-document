@@ -109,7 +109,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 
 ### 技术交流与商务支持
-![小微信图片_20250307083307](https://github.com/user-attachments/assets/71a16097-8152-4386-aa12-33eb5c3b4e4a)
+![小微信图片_20250307083307](https://github.com/user-attachments/assets/f3609e68-187e-42ab-a3ff-a24cbc90ded3)
+
 
 
 
