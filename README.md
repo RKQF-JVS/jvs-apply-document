@@ -109,7 +109,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 
 ### 技术交流与商务支持
-![Uploading 微信图片_20250716165805_3.png…]()
+<img width="231" height="376" alt="微信图片_20250716165805_3" src="https://github.com/user-attachments/assets/6536ed1c-2682-4822-87b2-0f919ff220b4" />
+
 
 
 
